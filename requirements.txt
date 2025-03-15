@@ -1,0 +1,7 @@
+catboost
+execdata
+fuzzy_pandas
+pyinstaller
+pytube
+tempproj
+xlwings
