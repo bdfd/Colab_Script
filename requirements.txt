@@ -1,7 +1,6 @@
 catboost
 execdata
 fuzzy_pandas
-opencv-python
 pyinstaller
 pytube
 tempproj
